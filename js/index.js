@@ -165,5 +165,6 @@ switch (pathname) {
     mostreoProductos("bebidas");
     break;
   default:
+    mostreoProductos("todos");
     break;
 }
