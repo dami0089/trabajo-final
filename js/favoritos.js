@@ -47,8 +47,4 @@ carritoAlmacenado.forEach((item) => {
 let borrar = document.getElementById("borrar");
 borrar.addEventListener("click", () => {
   vaciar();
-
-  // if (resultado) {
-  //   vaciar();
-  // }
 });

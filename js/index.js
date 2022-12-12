@@ -1,25 +1,4 @@
-//Aca la declaracion de todos los productos
-//todo: Hacer una funcion para pasarle la categoria en la que este
-//Aca renderiza los productos y luego los coloca en el DOM del index.html
-
-// let localizacion = location.href;
-
-// if (localizacion === "verduleria.html") {
-//   mostreoProductos("verduleria");
-//   console.log(location.href);
-// } else if (localizacion === "supermercado.html") {
-//   mostreoProductos("supermercado");
-// } else if (localizacion === "comida-rapida.html") {
-//   mostreoProductos("comida-rapida");
-// } else if (localizacion === "bazar.html") {
-//   mostreoProductos("bazar");
-// } else if (localizacion === "libreria.html") {
-//   mostreoProductos("libreria");
-// } else if (localizacion === "bebidas.html") {
-//   mostreoProductos("bebidas");
-// } else {
-//
-// }
+//Esta funcion esta hecha para que cuando el usuario seleccione una categoria, le muestre los productos de tal categoria
 const mostreoProductos = (categoria) => {
   let tarjetaProducto = document.getElementById("producto");
 
@@ -161,7 +140,7 @@ const mostreoProductos = (categoria) => {
       };
     });
 };
-
+//Aca verificamos en que pagina se encuentra el usuario, para pasarle esa info a la funcion mostreo de Productos y asi mostrar los productos correspondientes
 let pathname = window.location.pathname;
 switch (pathname) {
   case "/index.html":
