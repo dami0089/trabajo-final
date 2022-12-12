@@ -1,0 +1,157 @@
+[
+    {
+      "id": 1,"nombre": "Uvas","categoria": "verduleria", "descuento": "","precio": "25", "imagen": "img/product/discount/uvas.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Bananas",
+      "categoria": "verduleria",
+      "descuento": "",
+      "precio": "33",
+      "imagen": "img/product/discount/bananas.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Melon",
+      "categoria": "verduleria",
+      "descuento": "",
+      "precio": "250",
+      "imagen": "img/product/discount/melon.png"
+    },
+    {
+      "id": 4,
+      "nombre": "Manzana",
+      "categoria": "verduleria",
+      "descuento": "",
+      "precio": "15",
+      "imagen": "img/product/discount/manzana.jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "Jugo de Naranja",
+      "categoria": "supermercado",
+      "descuento": "",
+      "precio": "120",
+      "imagen": "img/product/discount/jugodenaranja.jpg"
+    },
+    {
+      "id": 51,
+      "nombre": "Ensalada de frutas",
+      "categoria": "supermercado",
+      "descuento": "",
+      "precio": "149",
+      "imagen": "img/product/discount/ensaladadefrutas.jpg"
+    },
+    {
+      "id": 6,
+      "nombre": "Cebolla",
+      "categoria": "verduleria",
+      "descuento": "",
+      "precio": "50",
+      "imagen": "img/product/discount/debolla.jpg"
+    },
+    {
+      "id": 7,
+      "nombre": "Garbanzos",
+      "categoria": "supermercado",
+      "descuento": "",
+      "precio": "88",
+      "imagen": "img/product/discount/latadegarbanzos.jpg"
+    },
+    {
+      "id": 8,
+      "nombre": "Pastel de papas",
+      "categoria": "comida-rapida",
+      "descuento": "",
+      "precio": "350",
+      "imagen": "img/product/discount/pasteldepapas.jpg"
+    },
+    {
+      "id": 9,
+      "nombre": "Pizza congelada",
+      "categoria": "comida-rapida",
+      "descuento": "30",
+      "precio": "499",
+      "imagen": "img/product/discount/pizza.jpg"
+    },
+    {
+      "id": 10,
+      "nombre": "Limpia Vidrios",
+      "categoria": "bazar",
+      "descuento": "",
+      "precio": "255",
+      "imagen": "img/product/discount/limpiavidrios.jpg"
+    },
+    {
+      "id": 11,
+      "nombre": "Trapo de piso",
+      "categoria": "bazar",
+      "descuento": "",
+      "precio": "345",
+      "imagen": "img/product/discount/trapodepiso.jpg"
+    },
+    {
+      "id": 12,
+      "nombre": "Bandeja de vidrio",
+      "categoria": "bazar",
+      "descuento": "",
+      "precio": "90",
+      "imagen": "img/product/discount/bandejadevidrio.jpg"
+    },
+    {
+      "id": 13,
+      "nombre": "Lapicera Azul",
+      "categoria": "libreria",
+      "descuento": "",
+      "precio": "10",
+      "imagen": "img/product/discount/lapiceraazul.jpg"
+    },
+    {
+      "id": 14,
+      "nombre": "Cuaderno Rayado",
+      "categoria": "libreria",
+      "descuento": "20",
+      "precio": "290",
+      "imagen": "img/product/discount/cuadernorayado.jpg"
+    },
+    {
+      "id": 15,
+      "nombre": "Mochila Negra",
+      "categoria": "libreria",
+      "descuento": "50",
+      "precio": "990",
+      "imagen": "img/product/discount/mochilanegra.jpg"
+    },
+    {
+      "id": 16,
+      "nombre": "Coca cola",
+      "categoria": "bebidas",
+      "descuento": "",
+      "precio": "100",
+      "imagen": "img/product/discount/cocacola.jpg"
+    },
+    {
+      "id": 17,
+      "nombre": "Cerveza Andes",
+      "categoria": "bebidas",
+      "descuento": "10",
+      "precio": "330",
+      "imagen": "img/product/discount/cervezaandes.jpg"
+    },
+    {
+      "id": 18,
+      "nombre": "Seven Up",
+      "categoria": "bebidas",
+      "descuento": "",
+      "precio": "150",
+      "imagen": "img/product/discount/sevenup.jpg"
+    },
+    {
+      "id": 19,
+      "nombre": "Gancia",
+      "categoria": "bebidas",
+      "descuento": "15",
+      "precio": "1400",
+      "imagen": "img/product/discount/gancia.jpg"
+    }
+  ]
